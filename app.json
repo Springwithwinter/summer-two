@@ -1,0 +1,22 @@
+{
+    "name": "1",
+    "description": "2",
+    "keywords": ["V2Ray"],
+    "3": {
+        "ID": {
+            "description": "UUID",
+            "value": "874013c2-f7fd-4103-9a60-2122707079d2"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/Springwithwinter/summer-two",
+    "repository": "https://github.com/Springwithwinter/summer-two",
+    "stack": "container"
+}
